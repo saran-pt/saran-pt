@@ -9,7 +9,7 @@ Feel free to send me a connect request.
 
 ---
 
-[![GitHub](https://img.shields.io/github/followers/Cyclenerd?style=social)](https://github.com/saran-pt)
+[![GitHub](https://img.shields.io/github?style=social)](https://github.com/saran-pt)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saran-pt/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=saran-pt.saran-pt)
 <!--
