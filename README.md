@@ -11,8 +11,9 @@ Feel free to send me a connect request.
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=social&logo=github)](https://github.com/saran-pt)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saran-pt/)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=saran-pt.saran-pt)
 <!--
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=saran-pt.saran-pt)
+
 **saran-pt/saran-pt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
