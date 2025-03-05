@@ -2,7 +2,6 @@
 
 - I am a learning enthusiast who's always up for new challenges and learning.
 - I am more of an backend developer who's currently exploring django and node.js.
-- I am currently working on imporoving my skills.
 
 I'm also on [LinkedIn](https://www.linkedin.com/in/saran-pt/).
 Feel free to send me a connect request.
